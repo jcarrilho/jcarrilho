@@ -7,7 +7,7 @@
 
 ##
 ### Recent Projects:
-[Pokémon](https://jcarrilho.github.io/canvas-project-pokemon/) - 2D game inspired by Pokémon franchise | [CryptoExpress](https://vast-puce-sheep-cap.cyclic.app/home) - Platform to track and create cryptocurrencies
+[Pokémon](https://jcarrilho.github.io/canvas-project-pokemon/) - 2D game inspired by the Pokémon franchise | [CryptoExpress](https://vast-puce-sheep-cap.cyclic.app/home) - Platform to track and create cryptocurrencies
 ##
 
 <!--
