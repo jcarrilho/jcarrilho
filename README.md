@@ -8,9 +8,9 @@
 ##
 ### Recent Projects:
 [Pokémon](https://jcarrilho.github.io/canvas-project-pokemon/) - 2D game inspired by the Pokémon franchise      |      [CryptoExpress](https://vast-puce-sheep-cap.cyclic.app/home) - Platform to track and create cryptocurrencies
-##
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+##
+[![My Skills](https://skillicons.dev/icons?i=js,mongodb,react,express,nodejs,html,css,bootstrap,github,heroku,netlify)](https://skillicons.dev)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
