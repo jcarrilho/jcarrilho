@@ -1,6 +1,6 @@
 ##
 ### Hi! I'm João 👋
-- 📍 Lisbon, Portugal
+- 📍 From Portugal
 - 🎓 Full-Stack Developer 
 - ⚡ Strong interest in the intersection of finance and technology
 - 📫 [Contact me through Linkedin](https://www.linkedin.com/in/jcarrilho11/)
