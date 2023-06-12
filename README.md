@@ -7,7 +7,7 @@
 
 ##
 ### Recent Projects:
-[Pokémon](https://jcarrilho.github.io/canvas-project-pokemon/) - 2D game inspired by the Pokémon franchise      |      [CryptoExpress](https://vast-puce-sheep-cap.cyclic.app/home) - Platform to track and create cryptocurrencies      |      [Príncipe+Real](https://dancing-pixie-0378c7.netlify.app/) - An integrated platform to match the needs and offers within Príncipe Real neighborhood
+[Pokémon](https://jcarrilho.github.io/canvas-project-pokemon/) - 2D game inspired by the Pokémon franchise      |      [CryptoExpress](https://vast-puce-sheep-cap.cyclic.app/home) - Platform to track and create cryptocurrencies      |      [Príncipe+Real](https://dancing-pixie-0378c7.netlify.app/) - A platform to match the needs and offers within Príncipe Real neighborhood
 
 ##
 [![My Skills](https://skillicons.dev/icons?i=js,mongodb,react,express,nodejs,html,css,bootstrap,github,heroku,netlify)](https://skillicons.dev)
